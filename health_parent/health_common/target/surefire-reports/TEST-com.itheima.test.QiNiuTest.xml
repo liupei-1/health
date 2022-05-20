@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="com.itheima.test.QiNiuTest" time="1.264" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="com.itheima.test.QiNiuTest" time="2.279" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="D:\Java\jdk1.8.0_221\jre\bin"/>
@@ -68,6 +68,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.itheima.test.QiNiuTest" name="test1" time="1.033"/>
-  <testcase classname="com.itheima.test.QiNiuTest" name="test2" time="0.231"/>
+  <testcase classname="com.itheima.test.QiNiuTest" name="test1" time="1.876"/>
+  <testcase classname="com.itheima.test.QiNiuTest" name="test2" time="0.403"/>
 </testsuite>
