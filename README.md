@@ -21,8 +21,6 @@ health_parent：父工程，打包方式为pom，统一锁定依赖的版本，�
 
 health_common：通用模块，打包方式为jar，存放项目中使用到的一些工具类和常量类
 
-health_pojo：打包方式为jar，存放实体类和返回结果类等
-
 health_dao：持久层模块，打包方式为jar，存放Dao接口和Mapper映射文件
 
 health_interface：打包方式为jar，存放服务接口
